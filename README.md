@@ -73,7 +73,8 @@ Additionally, we have equipped the vehicle with a Pixy camera to enhance obstacl
 For powering the robot, we utilize a combination of a Lipo battery and three lithium-ion cells, connected to two buck converters—one of which includes a booster. The Lipo battery is connected to the buck-boost converter, which in turn is connected to the motor driver. This setup powers the DC motor and the Arduino Mega. The lithium-ion cells are connected to the standard buck converter, which supplies power to the sensors, Pixy camera, and servo motor. This configuration ensures that all components receive the precise amount of power they need to function correctly.
 
 Specifically, the Arduino Mega requires a stable 5V power supply, so the output of the buck converter is set to 5V, with an input of 11.1V. Meanwhile, the buck-boost converter output is set to 12V, which is necessary as the DC motors require a minimum of 10V to operate efficiently. This careful power distribution guarantees that each component performs optimally, contributing to the overall reliability and effectiveness of our vehicle's navigation and operation systems.
-Obstacle Management
+
+## Obstacle Management
 
 In the open round, our robot utilizes five ultrasonic sensors strategically placed to navigate and avoid obstacles. The sensors are positioned as follows:
 
