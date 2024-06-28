@@ -167,3 +167,12 @@ while turn counter < 12:
 
 Stop robot
 
+## Components
+
+![Comp 1](https://github.com/Zarar-Haroon/Aitchison-X---WRO-2024-/assets/170884737/297ff86e-29c4-420b-bc58-c478c4f3610c)
+
+![Comp 2](https://github.com/Zarar-Haroon/Aitchison-X---WRO-2024-/assets/170884737/e9610cdd-6c69-4100-aa59-90dfd9cd9a6e)
+
+![Comp 3](https://github.com/Zarar-Haroon/Aitchison-X---WRO-2024-/assets/170884737/61974b68-56f2-4b48-bf0d-01f447e6ef11)
+
+
